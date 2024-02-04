@@ -1,0 +1,10 @@
+
+.head-div h1{
+    color:red;
+    
+}
+.head-div{
+    width:100%;
+    height:20vh;
+    background-color: brown;
+}
